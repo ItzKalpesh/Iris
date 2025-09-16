@@ -22,7 +22,6 @@ The goal of this project is to build a classification model that can accurately 
 - **Python 3**  
 - **scikit-learn** → Model training & evaluation  
 - **NumPy / Pandas** → Data handling  
-- **Matplotlib / Seaborn** → Data visualization  
 - **Google Colab / Jupyter Notebook**  
 
 ---
@@ -56,32 +55,7 @@ The goal of this project is to build a classification model that can accurately 
    - Visualized decision boundaries & confusion matrix  
 
 5. **Prediction on New Data**  
-   - Example inputs and predictions provided  
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:  
-
-```bash
-git clone https://github.com/your-username/iris-classification.git
-cd iris-classification
-```
-
-2. Install dependencies:  
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run Jupyter Notebook or Colab:  
-
-```bash
-jupyter notebook iris_classification.ipynb
-```
-
----
+   - Example inputs and predictions provided 
 
 ## 📊 Results
 
@@ -111,5 +85,5 @@ Input: [1.2, 0.9, 2.3, 1.8] → Predicted: Iris-setosa
 
 ---
 
-✨ **Author**: [Your Name]  
+✨ **Author**: [Kalpesh Subandha]  
 📅 **Year**: 2025  
